@@ -9,6 +9,7 @@ function App() {
         <p>
          Hello World
         </p>
+        {/* <button onClick={methodDoesNotExist}>Break the world</button>; */}
         <a
           className="App-link"
           href="https://reactjs.org"
